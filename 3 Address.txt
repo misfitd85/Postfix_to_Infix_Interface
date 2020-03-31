@@ -1,0 +1,54 @@
+Mul R0 3 2
+Div R1 Mul R0 3 2 9
+Div R0 4 8
+Add R1 2 6
+Mul R2 5 Add R1 2 6
+Sub R3 Div R0 4 8 Mul R2 5 Add R1 2 6
+Sub R0 9 4
+Mul R0 4 5
+Mul R1 3 2
+Add R2 Mul R0 4 5 Mul R1 3 2
+Sub R3 9 Add R2 Mul R0 4 5 Mul R1 3 2
+Mul R0 4 3
+Add R1 Mul R0 4 3 2
+Add R0 2 1
+Mul R1 7 Add R0 2 1
+Add R0 5 1
+Mul R1 4 7
+Div R2 Add R0 5 1 Mul R1 4 7
+Add R0 5 1
+Mul R1 4 7
+Div R2 Add R0 5 1 Mul R1 4 7
+Add R0 5 1
+Mul R1 4 7
+Div R2 Add R0 5 1 Mul R1 4 7
+Add R0 5 1
+Mul R1 4 7
+Div R2 Add R0 5 1 Mul R1 4 7
+Add R0 5 1
+Mul R1 4 7
+Div R2 Add R0 5 1 Mul R1 4 7
+Add R0 5 1
+Mul R1 4 7
+Div R2 Add R0 5 1 Mul R1 4 7
+Add R0 5 1
+Mul R1 4 7
+Div R2 Add R0 5 1 Mul R1 4 7
+Add R0 5 1
+Mul R1 4 7
+Div R2 Add R0 5 1 Mul R1 4 7
+Add R0 32 32
+Add R0 32 32
+Add R0 22 32
+Add R0 22 32
+Add R0 22 32
+Add R0 22 32
+Add R0 12 32
+Add R0 12 32
+Add R0 12 32
+Add R0 12 32
+Add R0 12 32
+Add R0 12 32
+Add R0 12 32
+Add R0 12 32
+Add R0 12 32
